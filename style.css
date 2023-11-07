@@ -25,7 +25,15 @@
   h1{
     text-align: center;
   }
+
+  h3{
+    text-align: center;
+  }
   
   body{
     background-size: cover;
+  }
+
+  tr{
+    text-align: center;
   }
